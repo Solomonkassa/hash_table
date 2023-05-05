@@ -1,5 +1,5 @@
 # Introduction:
-
+------------------------------------------------------------------------------------------------------------------------------
 A hash table is a data structure that maps keys to values by using a hash function to compute an index into an array of buckets, from which the correct value can be found. Hash tables provide constant-time average-case performance for insertion, deletion, and lookup operations.
 
 #Implementation:
